@@ -1,4 +1,4 @@
-<p align="center">
+<p>
   <a href="https://github.com/dev01d">
     <img 
         align="center" 
