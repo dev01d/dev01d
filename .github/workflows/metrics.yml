@@ -30,8 +30,9 @@ jobs:
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_ignored: jinja, swift, Makefile, ruby, Vim Script, css
-          plugin_languages_indepth: yes
-          plugin_languages_recent_days: 300
-          plugin_languages_recent_load: 400
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
-          plugin_languages_threshold: 3%
+          plugin_languages_threshold: 2%
